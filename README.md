@@ -1,5 +1,6 @@
 # LW3-v0.3
 
+New features:
 1) Converting a part of the code into separate functions (improvement expected later on)
 2) The program was divided into separate files (new header and cpp files were created)
 3) Preliminar exception handling methods were introduced (looking forward further improvement)
